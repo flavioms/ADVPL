@@ -2,8 +2,8 @@
 #include 'parmtype.ch'
 
 /*/{Protheus.doc} U_NDTDEBITO()
-//TODO Descrição auto-gerada.
-@author administrator
+//TODO Nota fiscal de débito criado com TMSPrinter.
+@author Flavio Martins
 @since 15/10/2018
 @version 1.0
 @return ${return}, ${return_description}
